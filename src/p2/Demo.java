@@ -2,7 +2,7 @@ package p2;
 
 import java.util.Scanner;
 
-public class ReverseString {
+public class Demo {
 	
 	Scanner sc1 = new Scanner(System.in);
 	
@@ -66,7 +66,7 @@ public class ReverseString {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		ReverseString d = new ReverseString();
+		Demo d = new Demo();
 		
 		Scanner sc = new Scanner(System.in);
 		
